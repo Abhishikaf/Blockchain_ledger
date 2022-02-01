@@ -48,6 +48,7 @@ If it does not, please follow the instructions on the command line.
 ## Contributors
 
 Abhishika Fatehpuria (abhishika@gmail.com)
+
 ---
 
 ## License
